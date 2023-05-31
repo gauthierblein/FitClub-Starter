@@ -9,7 +9,7 @@ const Plans = () => {
         <div className='plans-container' id='plans'>
             <div className='blur plans-blur1'></div>
             <div className='blur plans-blur2'></div>
-            <div className='programs-header' style={{gap: 'rem'}}>
+            <div className='programs-header' style={{gap: '1rem'}}>
                 <span className='stroke-text'>READY TO START</span>
                 <span>YOUR JOURNEY</span>
                 <span className='stroke-text'>NOW WITH US</span>
